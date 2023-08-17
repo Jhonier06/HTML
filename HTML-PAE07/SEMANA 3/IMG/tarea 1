@@ -1,0 +1,43 @@
+!DOCTYPE html>
+<html  lang="es">
+<head>
+    <title>manejo de texto </title>
+    <meta charset="utf-8">
+    <meta name="descripcion" content " uso de etiquetas para texto">
+</head>
+<body bgcolor="#A7F8F2">
+
+   <div align="center"> <font size="14">HTML5 (<s>HyperText Markup Language</s>, versión 5) es la quinta revisión importante del lenguaje 
+básico de la World Wide Web, HTML. HTML5 especifica dos variantes de sintaxis para HTML: un 
+«clásico» HTML (text/HTML)</font></div><br>
+(text/HTML), la variante conocida como HTML5 y una variante XHTML conocida como sintaxis 
+XHTML5 que deberá ser servida como XML.1 2 Esta es la primera vez que HTML y XHTML se 
+han desarrollado en paralelo. 
+Todavía se encuentra en modo experimental, lo cual indica la misma W3C, aunque ya es usado 
+por múltiples desarrolladores web por sus avances, mejoras y ventajas. 
+Al no ser reconocido en viejas versiones de navegadores por sus nuevas etiquetas, se recomienda 
+al usuario común actualizar a la versión más nueva, para poder disfrutar de todo el potencial que 
+provee HTML5. 
+QUE COMPONE HTML5? 
+Semántica. La semántica es darle significado a la estructura de la página
+web, en HTML5 se añaden nuevas etiquetas que son más descriptivas de
+la función que representan.
+Almacenamiento Off Line. Gracias a esta capacidad podrán desarrollarse
+aplicaciones que corran de manera local, sin necesidad de instalar Base
+de Datos.
+Geo localización en HTML5 Español Acceso a Dispositivos. Se ha iniciado con Geo localización 
+integrada, y es que es bastante fácil implementarlo, pero se tienen planes de hacer grabaciones a 
+micrófonos o cámaras tanto de PC’s como Dispositivos Móviles. 
+Conectividad HTML5 español. Una comunicación más eficiente ayudara a Chats, mejor experiencia 
+de Gaming en línea etc. Web Sockets and Server-Sent Events mejoran la transmisión de datos 
+entre el cliente y el servidor. 
+Audio Video en HTML5 EspañolMultimedia. Audio y Video Nativo en HTML5, olvídate de plug 
+ins, además se usan los procesadores gráficos directamente.
+Animación y Efectos HTML5 CSS3 español Animación y efectos 3D Entre SVG, 
+Canvas, WebGL y CSS3 3D, tendremos animaciones y efectos nativos. 
+Integración y Desempeño HTML5Desempeño e Integración. Haz tus aplicaciones web mas 
+rápidas usando varias tecnologías como Web Workers y XMLHttpRequest. 
+CSS3 EspañolCss3. Css3 otorga una amplia gama de estilos y efectos sin sacrificar la semántica, Cosas 
+como bordes redondeados, dobles backgrounds, fondos degradados, animaciones y uso de fuentes 
+hacen que CSS3 y HTML5 mejoren la web.
+</body>
