@@ -1,0 +1,35 @@
+<!DOCTIPEhtml>
+<html  lang="es"
+<head>
+    <title>manejo de texto </title>
+    <meta charset="utf-8>
+    <meta name="descripcion" content " uso de etiquetas para texto">
+</head>
+<body bgcolor="#A7F8F2"
+<HEADER>
+    <H1>USO DE ETIQUETAS PARA texto</H1>
+    </HEADER>
+    <section>
+        <h2><font face="forte" size="16" color="GREEN">este texto nesta escrito</font> en titulo 2 </h2>
+        <h6>este texto esta escrito en titulo6</h6></h3>
+    <font color="#C226DB">USO DE ETIQUETAS PARA MANEJOP DE TEXTO</font>
+    <br>
+    <font color="RED" size="14" face="ARIAL">la niña come</font color="blue">piña</font> picada 
+    en el desayuno </font>
+    <br>
+    <font colo="96301A" face="tahoma"><b>esta frace esta en NEGRITA y color rojo</b></font>
+    <br>
+    <font color="GREEN"><U><h3>esta frace esta subrayada y color verde</h3></U></font>
+    <br>
+    <font color="calovini" size="14"><u>ESTA FRCAE TIENE CONFIGURACOION DE FUENTE Y TACHADO </u></font>
+    <br>
+    <h2>FORMULA CUADRATICA   A<SUP>2</SUP>+BX-c</h2>
+    <br>
+    <font color="50413E" size="14" face="lucida sans">FORMULA QUIMICA DEL AGUA : H <sub>2</sub> O</font>
+
+
+</section>
+
+
+
+</body>
